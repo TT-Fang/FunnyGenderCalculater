@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gender Calculation</string>
+    <string name="spinner_default">请选择</string>
+    <string-array name="spinner_options">
+        <item>爸爸</item>
+        <item>妈妈</item>
+        <item>爷爷</item>
+        <item>奶奶</item>
+        <item>姐姐</item>
+        <item>妹妹</item>
+        <item>老公</item>
+        <item>老婆</item>
+        <item>姥姥</item>
+        <item>姥爷</item>
+    </string-array>
+</resources>
