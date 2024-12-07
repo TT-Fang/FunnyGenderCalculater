@@ -1,4 +1,4 @@
-package com.fangyitao.gendercalculation;
+package com.yourpackage.gendercalculation;
 
 public class SelectedGender {
     private String selectedGender;
