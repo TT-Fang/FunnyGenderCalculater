@@ -1,4 +1,4 @@
-package com.fangyitao.gendercalculation;
+package com.yourpackage.gendercalculation;
 
 import  android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
